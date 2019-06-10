@@ -1,0 +1,26 @@
+{
+  "name": "text-to-speech-poc",
+  "version": "0.0.0",
+  "description": "poc text to speech in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhlas-firlana/text-to-speech-poc.git"
+  },
+  "keywords": [
+    "tts"
+  ],
+  "author": "ikhlas firlana <ifirlana@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhlas-firlana/text-to-speech-poc/issues"
+  },
+  "homepage": "https://github.com/ikhlas-firlana/text-to-speech-poc#readme",
+  "dependencies": {
+    "say": "^0.15.0"
+  }
+}
